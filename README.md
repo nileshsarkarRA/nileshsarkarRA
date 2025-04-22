@@ -15,65 +15,62 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Nilesh Sarkar! 👋✨
+# Hi, I'm Nilesh Sarkar! 👋✨  
 
-I'm an **undergraduate researcher** (Class of 2027) at **Dayananda Sagar University** with a passion for **AI 🤖, robotics 🤖, and cognitive science 🧠**. I love training **machine learning models** and **deep neural networks** to turn innovative ideas into practical solutions that enhance everyday life. 🚀
+**Undergraduate Researcher** | **AI Enthusiast** | **Robotics Innovator**  
+**Class of 2027** | **Dayananda Sagar University**  
 
----
-
-## 🌟 About Me
-
-- **🎯 Interests:**  
-  Artificial Intelligence, Machine Learning, Deep Neural Networks, Robotics, Cognitive Science  
-- **🛠️ Skills:**  
-  Python 🐍, C, C++, Arduino, Raspberry Pi  
-- **🌐 Affiliations:**  
-  IEEE RAS, IEEE CIS, RoboVerse Team  
+I specialize in **AI 🤖, robotics 🤖, and cognitive science 🧠**, with a passion for building **machine learning models** and **deep neural networks** that solve real-world problems. 🚀  
 
 ---
 
-## 💻 My Projects
+## 🌟 About Me  
 
-Here are some of the exciting projects I've worked on:
+- **🎯 Interests:** AI, Machine Learning, Robotics, Cognitive Science  
+- **🛠️ Skills:** Python 🐍, C, C++, Arduino, Raspberry Pi  
+- **🌐 Affiliations:** IEEE RAS, IEEE CIS, RoboVerse Team  
 
-- **🍎 Deep Learning for Fruit Classification:**  
-  Developed convolutional neural networks (CNNs) to classify and recognize fruits with impressive accuracy.  
+---
 
-- **🌦️ Weather Prediction using CNNs:**  
-  Built CNN-based models to analyze images and predict weather patterns.  
+## 💻 Featured Projects  
+
+- **🍎 Fruit Classification with CNNs:**  
+  Built deep learning models to classify fruits with high accuracy.  
+
+- **🌦️ Weather Prediction:**  
+  Developed CNN-based models to analyze images and predict weather patterns.  
 
 - **📚 AI-Powered Physics Tutor:**  
-  Created an interactive tutor powered by instruction-tuned models that simplifies complex physics concepts.  
+  Created an interactive tutor simplifying complex physics concepts.  
 
 - **🎨 Image Generation with Stable Diffusion:**  
-  Explored creative image generation using the **Stable Diffusion v1.5** model to produce high-quality visuals from textual prompts.  
+  Leveraged **Stable Diffusion v1.5** to create stunning visuals from text prompts.  
 
-- **🗣️ Custom Large Language Models:**  
-  Designed and trained bespoke language models aimed at supporting underrepresented Indian languages like **Kannada**.  
+- **🗣️ Custom Language Models:**  
+  Designed models supporting underrepresented Indian languages like **Kannada**.  
 
-- **🐍 Fun & Practical Python Projects:**  
-  Developed engaging projects such as:  
+- **🐍 Fun Python Projects:**  
   - Interactive games (Rock-Paper-Scissors ✊✋✌️, Hangman 🎮)  
-  - Utilities like custom QR Code generators 📱 and a browser bookmarks manager 🔖  
+  - Utilities like QR Code generators 📱 and a bookmarks manager 🔖  
 
 ---
 
-## 🏆 Experience & Involvement
+## 🏆 Experience  
 
 - **🔬 Academic Research:**  
-  Continuously exploring the intersections of **AI, robotics, and cognitive science**, pushing boundaries with every project.  
+  Exploring intersections of **AI, robotics, and cognitive science** through innovative projects.  
 
-- **🌍 Community & Professional Engagement:**  
-  Actively contributing to professional organizations like **IEEE RAS** and **IEEE CIS**, while being an enthusiastic member of the **RoboVerse Team**.  
+- **🌍 Community Engagement:**  
+  Active member of **IEEE RAS**, **IEEE CIS**, and the **RoboVerse Team**.  
 
-- **⚙️ Hands-On Innovation:**  
-  Blending theory with practice, using hardware platforms like **Arduino** and **Raspberry Pi** to bring software ideas to life.  
+- **⚙️ Hardware Integration:**  
+  Combining software and hardware using platforms like **Arduino** and **Raspberry Pi**.  
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect!  
 
-I'm always eager to **collaborate** and discuss innovative ideas in **AI, robotics, and beyond**. Feel free to:  
+I'm always open to **collaborations** and discussions on **AI, robotics, and beyond**.  
 - Explore my repositories 📂  
 - Reach out for discussions 💬  
 - Share your thoughts on the latest tech trends 🌐  
