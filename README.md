@@ -1,80 +1,31 @@
+# 👋 Hey, I'm Nilesh Sarkar!  
+**AI & Robotics Researcher | IEEE RAS & CIS Execom | ML, Cognitive Science & Neural Networks | Training ML Models, LLMs & Deep Neural Networks 😃**  
 
+## 🚀 About Me  
+I **train machine learning models & deep neural networks**—because making AI smarter is just plain fun! 😃  
+Exploring the fascinating **intersection of AI, robotics, and cognitive science**, I turn innovative ideas into **real-world solutions**.  
 
-<!--
-**nileshsarkarRA/nileshsarkarRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 What I Do  
+- 💡 **AI & ML Research** – Training LLMs, CNNs, and cutting-edge neural networks  
+- 🤖 **Robotics & Automation** – Building intelligent systems with Raspberry Pi & Arduino  
+- 🎨 **Generative AI & Image Processing** – Crafting AI-powered visuals with Stable Diffusion  
+- 📚 **Applied Cognitive Science** – Integrating AI with human learning models  
 
-Here are some ideas to get you started:
+## 🔥 Cool Projects I've Worked On  
+- 🌱 **CNN-based Fruit Classification** – AI that recognizes fruits with high accuracy  
+- 🌩️ **AI-driven Weather Prediction** – ML models forecasting patterns from satellite imagery  
+- 🎓 **AI-Powered Physics Tutor** – Making complex physics concepts simple with instruction-tuned LLMs  
+- 🖼️ **Image Generation with Stable Diffusion** – Experimenting with creative AI visuals  
+- 🗣️ **Language Modeling for Underrepresented Indian Languages** – Helping bridge linguistic gaps with AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+🐍 Python | C++ | TensorFlow | PyTorch  
+🔬 Machine Learning | Deep Learning | LLMs  
+🛠️ Raspberry Pi | Arduino | Robotics & SLAM  
 
-# Hi, I'm Nilesh Sarkar! 👋✨  
+## 🌍 Connect With Me!  
+📌 **GitHub:** [nileshsarkarRA](https://github.com/nileshsarkarRA)  
+📌 **LinkedIn:** [Nilesh Sarkar](http://www.linkedin.com/in/nilesh-sarkar-4137b428b)  
+📌 **Website:** [nileshsarkar.com](https://nileshsarkar.com)  
 
-**Undergraduate Researcher** | **AI Enthusiast** | **Robotics Innovator**  
-**Class of 2027** | **Dayananda Sagar University**  
-
-I specialize in **AI 🤖, robotics 🤖, and cognitive science 🧠**, with a passion for building **machine learning models** and **deep neural networks** that solve real-world problems. 🚀  
-
----
-
-## 🌟 About Me  
-
-- **🎯 Interests:** AI, Machine Learning, Robotics, Cognitive Science  
-- **🛠️ Skills:** Python 🐍, C, C++, Arduino, Raspberry Pi  
-- **🌐 Affiliations:** IEEE RAS, IEEE CIS, RoboVerse Team  
-
----
-
-## 💻 Featured Projects  
-
-- **🍎 Fruit Classification with CNNs:**  
-  Built deep learning models to classify fruits with high accuracy.  
-
-- **🌦️ Weather Prediction:**  
-  Developed CNN-based models to analyze images and predict weather patterns.  
-
-- **📚 AI-Powered Physics Tutor:**  
-  Created an interactive tutor simplifying complex physics concepts.  
-
-- **🎨 Image Generation with Stable Diffusion:**  
-  Leveraged **Stable Diffusion v1.5** to create stunning visuals from text prompts.  
-
-- **🗣️ Custom Language Models:**  
-  Designed models supporting underrepresented Indian languages like **Kannada**.  
-
-- **🐍 Fun Python Projects:**  
-  - Interactive games (Rock-Paper-Scissors ✊✋✌️, Hangman 🎮)  
-  - Utilities like QR Code generators 📱 and a bookmarks manager 🔖  
-
----
-
-## 🏆 Experience  
-
-- **🔬 Academic Research:**  
-  Exploring intersections of **AI, robotics, and cognitive science** through innovative projects.  
-
-- **🌍 Community Engagement:**  
-  Active member of **IEEE RAS**, **IEEE CIS**, and the **RoboVerse Team**.  
-
-- **⚙️ Hardware Integration:**  
-  Combining software and hardware using platforms like **Arduino** and **Raspberry Pi**.  
-
----
-
-## 🤝 Let's Connect!  
-
-I'm always open to **collaborations** and discussions on **AI, robotics, and beyond**.  
-- Explore my repositories 📂  
-- Reach out for discussions 💬  
-- Share your thoughts on the latest tech trends 🌐  
-
----
-
-> *“Turning innovative ideas into practical tools, one neural network at a time!”* 🌟
+_"Turning innovative ideas into practical tools, one neural network at a time!"_ 🚀😃  
