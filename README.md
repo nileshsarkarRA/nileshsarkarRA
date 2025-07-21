@@ -17,6 +17,7 @@ Exploring the fascinating **intersection of AI, robotics, and cognitive science*
 - 🎓 **AI-Powered Physics Tutor** – Making complex physics concepts simple with instruction-tuned LLMs  
 - 🖼️ **Image Generation with Stable Diffusion** – Experimenting with creative AI visuals  
 - 🗣️ **Language Modeling for Underrepresented Indian Languages** – Helping bridge linguistic gaps with AI  
+- 🤖 **Agentic RAG Chatbot with Streamlit and LangGraph** - An advanced Retrieval-Augmented Generation (RAG) chatbot featuring an agentic workflow powered by LangGraph. Users can upload a PDF and ask questions about its content via a Streamlit interface. If the answer isn't found in the document, the agent can search the web automatically.
 
 ## 🛠️ Tech Stack  
 🐍 Python | C++ | TensorFlow | PyTorch  
@@ -28,4 +29,4 @@ Exploring the fascinating **intersection of AI, robotics, and cognitive science*
 📌 **LinkedIn:** [Nilesh Sarkar](http://www.linkedin.com/in/nilesh-sarkar-4137b428b)  
 📌 **Website:** [nileshsarkar.com](https://nileshsarkar.com)  
 
-_"Turning innovative ideas into practical tools, one neural network at a time!"_ 🚀😃  
+_"Turning innovative ideas into practical tools, one neural network at a time!"_
