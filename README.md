@@ -1,32 +1,42 @@
-# 👋 Hey, I'm Nilesh Sarkar!  
-**AI & Robotics Researcher | IEEE RAS & CIS Execom | ML, Cognitive Science & Neural Networks | Training ML Models, LLMs & Deep Neural Networks 😃**  
+# Hi there, I'm Nilesh Sarkar 👋
 
-## 🚀 About Me  
-I **train machine learning models & deep neural networks**—because making AI smarter is just plain fun! 😃  
-Exploring the fascinating **intersection of AI, robotics, and cognitive science**, I turn innovative ideas into **real-world solutions**.  
+**Deep Learning Researcher | AI Systems Engineer**
+*Building the bridge between high-level reasoning (LLMs) and systems-level efficiency.*
 
-## 🔬 What I Do  
-- 💡 **AI & ML Research** – Training LLMs, CNNs, and cutting-edge neural networks  
-- 🤖 **Robotics & Automation** – Building intelligent systems with Raspberry Pi & Arduino  
-- 🎨 **Generative AI & Image Processing** – Crafting AI-powered visuals with Stable Diffusion  
-- 📚 **Applied Cognitive Science** – Integrating AI with human learning models  
+---
 
-## 🔥 Cool Projects I've Worked On  
-- 🌱 **CNN-based Fruit Classification** – AI that recognizes fruits with high accuracy  
-- 🌩️ **AI-driven Weather Prediction** – ML models forecasting patterns from satellite imagery  
-- 🎓 **AI-Powered Physics Tutor** – Making complex physics concepts simple with instruction-tuned LLMs  
-- 🖼️ **Image Generation with Stable Diffusion** – Experimenting with creative AI visuals  
-- 🗣️ **Language Modeling for Underrepresented Indian Languages** – Helping bridge linguistic gaps with AI  
-- 🤖 **Agentic RAG Chatbot with Streamlit and LangGraph** - An advanced Retrieval-Augmented Generation (RAG) chatbot featuring an agentic workflow powered by LangGraph. Users can upload a PDF and ask questions about its content via a Streamlit interface. If the answer isn't found in the document, the agent can search the web automatically.
+### 🚀 **Research Focus**
+I am an AI Researcher focused on **Large Language Models**, **Agentic Systems**, and **Mechanistic Interpretability**. Unlike typical API consumers, I build architectures from scratch to understand the mathematical limits of attention mechanisms.
 
-## 🛠️ Tech Stack  
-🐍 Python | C++ | TensorFlow | PyTorch  
-🔬 Machine Learning | Deep Learning | LLMs  
-🛠️ Raspberry Pi | Arduino | Robotics & SLAM  
+* **Deep Learning Research:** Implementing Transformers and CNNs from first principles (PyTorch).
+* **HPC & Systems:** Training 100M+ parameter models on my private **NVIDIA A100 (80GB)** cluster.
+* **Applied AI:** Developing retrieval-augmented generation (RAG) pipelines for aerospace engineering at **Moog Controls**.
 
-## 🌍 Connect With Me!  
-📌 **GitHub:** [nileshsarkarRA](https://github.com/nileshsarkarRA)  
-📌 **LinkedIn:** [Nilesh Sarkar](http://www.linkedin.com/in/nilesh-sarkar-4137b428b)  
-📌 **Website:** [nileshsarkar.com](https://nileshsarkar.com)  
+---
 
-_"Turning innovative ideas into practical tools, one neural network at a time!"_
+### 🛠 **Featured Projects**
+
+#### 🧠 **[Building GPT-2 from Scratch (PyTorch)](LINK_TO_REPO)**
+* **Status:** *Active Research*
+* **Stack:** PyTorch, CUDA, FlashAttention
+* **Description:** A clean-room implementation of the GPT-2 (124M) architecture.
+    * Manual implementation of Causal Self-Attention and LayerNorm.
+    * Custom training loop optimized for A100 hardware.
+    * Training on the OpenWebText dataset.
+
+#### 🤖 **[Agentic RAG System for Aerospace Docs](LINK_TO_REPO)**
+* **Stack:** LangChain, LangGraph, Streamlit, VectorDB
+* **Description:** An autonomous agent capable of multi-step reasoning over complex technical PDFs.
+    * Implements a "Router" agent to decide when to search vector stores vs. web search.
+    * Reduced hallucination rates by implementing citation-based retrieval.
+
+#### 🔬 **[Novel CNN for Histopathology](LINK_TO_REPO)**
+* **Stack:** PyTorch, OpenCV, NumPy
+* **Description:** Custom CNN architecture designed for early-stage cancer detection in high-resolution medical imagery. Achieved [X]% accuracy on validation sets.
+
+---
+
+### ⚡ **Technical Stack**
+* **Deep Learning:** PyTorch (Expert), CUDA, TensorFlow, JAX
+* **LLM Ecosystem:** Transformers (Hugging Face), LangChain, vLLM, Ollama
+* **DevOps & Tools:** Linux (Ubuntu), Docker, Git, NVIDIA Nsight
