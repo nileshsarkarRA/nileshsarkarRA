@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 **Research Focus**
-I am an AI Researcher focused on **Large Language Models**, **Agentic Systems**, and **Mechanistic Interpretability**. Unlike typical API consumers, I build architectures from scratch to understand the mathematical limits of attention mechanisms.
+I am an AI Researcher focused on **Large Language Models**, **Agentic Systems**, and **Mechanistic Interpretability**. I build architectures from scratch to understand the mathematical limits of attention mechanisms.
 
 * **Deep Learning Research:** Implementing Transformers and CNNs from first principles (PyTorch).
 * **HPC & Systems:** Training 100M+ parameter models on my private **NVIDIA A100 (80GB)** cluster.
