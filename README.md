@@ -1,42 +1,61 @@
-# Hi there, I'm Nilesh Sarkar 👋
+# Hi there, I’m Nilesh Sarkar 👋
 
-**Deep Learning Researcher | AI Systems Engineer**
-*Building the bridge between high-level reasoning (LLMs) and systems-level efficiency.*
-
----
-
-### 🚀 **Research Focus**
-I am an AI Researcher focused on **Large Language Models**, **Agentic Systems**, and **Mechanistic Interpretability**. I build architectures from scratch to understand the mathematical limits of attention mechanisms.
-
-* **Deep Learning Research:** Implementing Transformers and CNNs from first principles (PyTorch).
-* **HPC & Systems:** Training 100M+ parameter models on my private **NVIDIA A100 (80GB)** cluster.
-* **Applied AI:** Developing retrieval-augmented generation (RAG) pipelines for aerospace engineering at **Moog Controls**.
+**AI Researcher | Language Models & AI Systems**  
+*Studying how architectural and capacity constraints shape reasoning and representations in neural systems.*
 
 ---
 
-### 🛠 **Featured Projects**
+## 🔍 Research Focus
 
-#### 🧠 **[Building GPT-2 from Scratch (PyTorch)](LINK_TO_REPO)**
-* **Status:** *Active Research*
-* **Stack:** PyTorch, CUDA, FlashAttention
-* **Description:** A clean-room implementation of the GPT-2 (124M) architecture.
-    * Manual implementation of Causal Self-Attention and LayerNorm.
-    * Custom training loop optimized for A100 hardware.
-    * Training on the OpenWebText dataset.
+I am an AI researcher working on **language models, transformer architectures, and training dynamics**, with a focus on **architectural analysis, model compression, and interpretability**. My work follows an architecture-first approach: implementing and instrumenting models from first principles to study how representations evolve under structural and capacity constraints.
 
-#### 🤖 **[Agentic RAG System for Aerospace Docs](LINK_TO_REPO)**
-* **Stack:** LangChain, LangGraph, Streamlit, VectorDB
-* **Description:** An autonomous agent capable of multi-step reasoning over complex technical PDFs.
-    * Implements a "Router" agent to decide when to search vector stores vs. web search.
-    * Reduced hallucination rates by implementing citation-based retrieval.
-
-#### 🔬 **[Novel CNN for Histopathology](LINK_TO_REPO)**
-* **Stack:** PyTorch, OpenCV, NumPy
-* **Description:** Custom CNN architecture designed for early-stage cancer detection in high-resolution medical imagery. Achieved [X]% accuracy on validation sets.
+My current research centers on **compression-based analysis of large language models**, treating pruning, quantization, and distillation as experimental probes rather than purely engineering optimizations.
 
 ---
 
-### ⚡ **Technical Stack**
-* **Deep Learning:** PyTorch (Expert), CUDA, TensorFlow, JAX
-* **LLM Ecosystem:** Transformers (Hugging Face), LangChain, vLLM, Ollama
-* **DevOps & Tools:** Linux (Ubuntu), Docker, Git, NVIDIA Nsight
+## 🧠 What I Work On
+
+- **LLM Architecture & Compression Research**  
+  Designing and training compact transformer language models to study information bottlenecks, robustness, and representation stability under compression.
+
+- **Training Dynamics & Representation Analysis**  
+  Analyzing attention patterns, residual stream behavior, and convergence dynamics across architectural variants and capacity constraints.
+
+- **Applied AI Systems (Safety-Critical Contexts)**  
+  Developing agentic retrieval-augmented generation (RAG) systems for complex aerospace engineering documentation, with emphasis on reliability, verification, and structured reasoning.
+
+---
+
+## 🛠 Featured Research Projects
+
+### 🔹 Architectural Information Bottlenecks in Compressed Language Models
+**Status:** Active research  
+**Stack:** PyTorch, CUDA  
+
+Department-led research project studying how architectural choices and compression affect internal representations in transformer language models.
+- Training compact transformers from scratch for controlled experimentation  
+- Applying pruning, quantization, and distillation as analytical interventions  
+- Instrumenting models to study attention behavior, residual streams, and stability  
+- Evaluating effects across English and selected Indic languages  
+
+---
+
+### 🔹 Agentic RAG Systems for Technical Documentation
+**Stack:** LangChain, LangGraph, Vector Databases  
+
+Agentic retrieval systems designed for multi-step reasoning over large, structured technical corpora.
+- Query-aware routing between retrieval mechanisms  
+- Citation-based retrieval to improve reliability  
+- Focus on structured reasoning in safety-critical domains  
+
+---
+
+## ⚙️ Technical Stack
+
+- **Modeling & Research:** PyTorch, CUDA, Transformers  
+- **LLM Systems:** LangChain, LangGraph, Hugging Face  
+- **Systems & Tools:** Linux, Docker, Git, NVIDIA profiling tools  
+
+---
+
+
