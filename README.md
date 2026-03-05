@@ -1,61 +1,51 @@
-# Hi there, I’m Nilesh Sarkar 👋
+# Nilesh Sarkar
 
-**AI Researcher | Language Models & AI Systems**  
-*Studying how architectural and capacity constraints shape reasoning and representations in neural systems.*
-
----
-
-## 🔍 Research Focus
-
-I am an AI researcher working on **language models, transformer architectures, and training dynamics**, with a focus on **architectural analysis, model compression, and interpretability**. My work follows an architecture-first approach: implementing and instrumenting models from first principles to study how representations evolve under structural and capacity constraints.
-
-My current research centers on **compression-based analysis of large language models**, treating pruning, quantization, and distillation as experimental probes rather than purely engineering optimizations.
+AI Researcher — Language Models, Compression & AI Systems  
+B.Tech Artificial Intelligence & Robotics, Dayananda Sagar University (2023–2027)
 
 ---
 
-## 🧠 What I Work On
+## Research
 
-- **LLM Architecture & Compression Research**  
-  Designing and training compact transformer language models to study information bottlenecks, robustness, and representation stability under compression.
+I work on language models with an architecture-first approach — implementing and instrumenting models from first principles to study how representations evolve under structural and capacity constraints.
 
-- **Training Dynamics & Representation Analysis**  
-  Analyzing attention patterns, residual stream behavior, and convergence dynamics across architectural variants and capacity constraints.
+Current focus: treating pruning, quantization, and distillation as analytical probes rather than purely engineering optimizations, to understand what compression reveals about information organization inside transformers.
 
-- **Applied AI Systems (Safety-Critical Contexts)**  
-  Developing agentic retrieval-augmented generation (RAG) systems for complex aerospace engineering documentation, with emphasis on reliability, verification, and structured reasoning.
-
----
-
-## 🛠 Featured Research Projects
-
-### 🔹 Architectural Information Bottlenecks in Compressed Language Models
-**Status:** Active research  
-**Stack:** PyTorch, CUDA  
-
-Department-led research project studying how architectural choices and compression affect internal representations in transformer language models.
-- Training compact transformers from scratch for controlled experimentation  
-- Applying pruning, quantization, and distillation as analytical interventions  
-- Instrumenting models to study attention behavior, residual streams, and stability  
-- Evaluating effects across English and selected Indic languages  
+**Areas:**
+- LLM architecture, scaling behavior, and training dynamics
+- Model compression and mechanistic interpretability
+- Retrieval-augmented generation for safety-critical systems
+- Edge deployment and on-device inference
 
 ---
 
-### 🔹 Agentic RAG Systems for Technical Documentation
-**Stack:** LangChain, LangGraph, Vector Databases  
+## Projects
 
-Agentic retrieval systems designed for multi-step reasoning over large, structured technical corpora.
-- Query-aware routing between retrieval mechanisms  
-- Citation-based retrieval to improve reliability  
-- Focus on structured reasoning in safety-critical domains  
+**Architectural Information Bottlenecks in Compressed Language Models** *(Active)*  
+Studying how architectural choices and compression affect internal representations in transformer LMs. Training compact transformers from scratch for controlled experimentation; applying pruning, quantization, and distillation as interventions; instrumenting attention patterns and residual stream behavior across English and Indic language settings.  
+Stack: PyTorch, CUDA
+
+**Agentic RAG for Technical Documentation** *(Moog Controls — Industry)*  
+Agentic retrieval systems for multi-step reasoning over large structured engineering corpora. Query-aware routing, citation-grounded retrieval, and structured reasoning pipelines for aerospace workflows. Improved retrieval accuracy from ~70% to 90%+.  
+Stack: LangChain, LangGraph, Vector Databases
+
+**LLM Edge Deployment** *(Active)*  
+Compression and deployment experiments across 0.5B–7B parameter models. Built a teacher–student distillation pipeline (72B → student) for Hindi and Kannada instruction datasets. Deployed a 1B model on NVIDIA Jetson Nano (4GB RAM).  
+Stack: PyTorch, QLoRA, GGUF
+
+**Autonomous Drone Perception** *(Active)*  
+Vision-based navigation pipelines for all-terrain UAVs — obstacle detection, monocular depth estimation, and sensor fusion for autonomous flight.  
+Stack: OpenCV, ROS2
 
 ---
 
-## ⚙️ Technical Stack
+## Stack
 
-- **Modeling & Research:** PyTorch, CUDA, Transformers  
-- **LLM Systems:** LangChain, LangGraph, Hugging Face  
-- **Systems & Tools:** Linux, Docker, Git, NVIDIA profiling tools  
+**Research & Modeling:** PyTorch, CUDA, Hugging Face Transformers  
+**LLM Systems:** LangChain, LangGraph, Vector Databases, QLoRA, GGUF  
+**Robotics:** ROS2, Gazebo, LiDAR, IMU, Raspberry Pi, NVIDIA Jetson  
+**Tools:** Git, Docker, Linux, MATLAB, NVIDIA profiling tools
 
 ---
 
-
+[Portfolio](https://nileshsarkarra.github.io) · [LinkedIn](https://www.linkedin.com/in/nilesh-sarkar-4137b428b/) · nileshsarkar.cs@gmail.com
