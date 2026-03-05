@@ -110,17 +110,6 @@ Perception-driven servo control and actuation systems for humanoid prosthetic ar
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Nilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nileshsarkarra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshsarkarra&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Recognition
 
 - **India AI Impact Summit 2026** — Represented Dayananda Sagar University; presented on LLM architectures, medical AI, and autonomous drones
